@@ -1,1 +1,11 @@
-{"version":"0.3.0","notes":"Major release: DNA V1 (4 fases), Dev-9 League Constraints, Apriori V3 binning hibrido, Car DNA endpoints, 86+ tests, Auto-updater simplificado","pub_date":"2026-07-18T00:00:00Z","platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSempPeGhuMXZqeVBmYU5QQjA5Y1Z0QjduQ1lHdjc3TmNGbjI4MUt6ZzRDcE5YVmE3Z3pJZDYzUEJxNE9OZ2xyYnR1UENFNjllbmpMT0JOMVpvMUY2SWZ5OHJsd0ptQndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDE5MzEyCWZpbGU6QUNTZXR1cEh1Yl8wLjMuMF94NjRfZW4tVVMubXNpCmhobFBsbGdsWlZIR25vUFA4eEZXTTJuMXlza0tGNDNveDcrSTlOU1hnaURaZGJzd25rTkpFZkdoTk1ENGd3aG5KaGxKallvdk1YNTN4ZUFBTEpCaUF3PT0K","url":"https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/ACSetupHub_0.3.0_x64_en-US.msi"}}}
+{
+  "version": "0.4.0",
+  "notes": "Major release: V3 Data Model, Performance optimization, Auto-updater improvements",
+  "pub_date": "2026-07-28T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSempPeGhuMXZqeUtyNVJuWWdYMm85VjBlMHRPSTZta2Fua0x5YjlHL2Y2TGZLaUZTSjRXaUI3VDNKN3pLODRVSTRWTmlVR1YwcUtJd0xWNndXTHdaWEdsZ2dLci9sVWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjcyNDY2CWZpbGU6QUNTZXR1cEh1Yl8wLjQuMF94NjRfZW4tVVMubXNpCmV5RHZmczFDZEpkQlk0QWVabExLcGxtYUxlVFN6QW5vbkh5d3VaZkEwY2MyZmtpWE9iQzBLQVhuejloMFg0WTRUSmhQMUQ2ZHpZeWh0aGhUVU51ZkJ3PT0K",
+      "url": "https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/ACSetupHub_0.4.0_x64_en-US.msi"
+    }
+  }
+}
