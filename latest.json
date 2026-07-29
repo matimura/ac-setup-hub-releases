@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "Major release: V3 Data Model, Performance optimization, Auto-updater improvements",
-  "pub_date": "2026-07-28T00:00:00Z",
+  "version": "0.4.1",
+  "notes": "Fix: Botón de actualización siempre disponible, variables de entorno para API URL",
+  "pub_date": "2026-07-29T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSempPeGhuMXZqeUtyNVJuWWdYMm85VjBlMHRPSTZta2Fua0x5YjlHL2Y2TGZLaUZTSjRXaUI3VDNKN3pLODRVSTRWTmlVR1YwcUtJd0xWNndXTHdaWEdsZ2dLci9sVWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjcyNDY2CWZpbGU6QUNTZXR1cEh1Yl8wLjQuMF94NjRfZW4tVVMubXNpCmV5RHZmczFDZEpkQlk0QWVabExLcGxtYUxlVFN6QW5vbkh5d3VaZkEwY2MyZmtpWE9iQzBLQVhuejloMFg0WTRUSmhQMUQ2ZHpZeWh0aGhUVU51ZkJ3PT0K",
-      "url": "https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/ACSetupHub_0.4.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSempPeGhuMXZqeVBPUzFoSlY2dnlzcTZCTGZIRUdmdmx4S3dIbC90VkQzdVZwYWVzV3RZN2dxUjRzUzhLb1haNXlkQjc0d0lCY1BMcUdvTXJSSFRFS0ZCbTdwbUg0R1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzM0NDkzCWZpbGU6QUNTZXR1cEh1Yl8wLjQuMV94NjRfZW4tVVMubXNpCkJaSjNYRFdHN2ZsT0pRRkRCTUV3ZUNCOUFxa3A2MjZuVkMyWnpOaTY5NXNmUEZVVVlzVGV3Zk1Tb016ZkhaT25CRzFOUkYxcXNoeHRYdEh6YXdxdkN3PT0K",
+      "url": "https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/ACSetupHub_0.4.1_x64_en-US.msi"
     }
   }
 }
