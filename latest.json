@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "notes": "Fix: endpoints de IA funcionan correctamente con variables de entorno",
+  "version": "0.4.3",
+  "notes": "Fixes: main.jsx cleanup, Fase 2 infrastructure (sync queue, backend endpoints)",
   "pub_date": "2026-07-29T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSempPeGhuMXZqeUFDVThGTnZXbDVQbHlwRmZOZjNjRE1va0hlYnFXbms2Z0lmSEI2WGpaS2RsK3lBUVRsbFcza0FxZ2szNE1LcHVDanptbDNNbmdTV25JRzRFK2txTVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzM1ODgxCWZpbGU6QUNTZXR1cEh1Yl8wLjQuMl94NjRfZW4tVVMubXNpClNyZmZuc0c0akhOU0lpZWhzZHlBc0tHQ1ZLeUhiYXJpQmtJbGt5MDhjU3BJVzF3ZjZGQ3huWStUY2c3ckhtVmxmNmc5L3p3Mkp0Q1RzOUZYZnV1TkNRPT0K",
-      "url": "https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/ACSetupHub_0.4.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSempPeGhuMXZqeUZYeno1MG9LWTNQYXVlcTU4ZUpRS1AxSFVuWENWWTVSNmo1Mk5jZDkwR2NrRytHdEJvajVFc1FWNHkrdXZyL1M3dzQvSE1LUFpITHhPZTNNc2hEK1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzQ4ODc2CWZpbGU6QUNTZXR1cEh1Yl8wLjQuM194NjRfZW4tVVMubXNpClZ1SXh5ZjhCejd5Ni8vYUtVem9YMENwdWRLdTdTcXJURUprTy9qYlR0K3VxbTJWUG9wUWpWdFlwMFQrcm9jWEZRVmh1U2JxaHc0MDVaNHU4M1FjOEJRPT0K",
+      "url": "https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/ACSetupHub_0.4.3_x64_en-US.msi"
     }
   }
 }
