@@ -1,11 +1,11 @@
 {
-  "version": "0.4.3",
-  "notes": "Fixes: correct production build mode (bundle now correctly points to VPS, not localhost), main.jsx cleanup, Fase 2 infrastructure",
-  "pub_date": "2026-07-29T00:00:00Z",
+  "version": "0.4.20",
+  "notes": "DEV-7: analisis de marchas por curva (over-rev/bogging) con calculo de relacion optima -- funciona para relacion final unica y para autos de marcha individual (ej. Tatuus FA1). Fix critico: la relacion de marchas ahora se guarda en la seccion correcta del setup y llega al juego (antes quedaba en una seccion fantasma que Assetto Corsa nunca leia). Flujo de feedback post-stint mas confiable: navegacion automatica a Stints al guardar y deteccion de stint nuevo al volver de pista.",
+  "pub_date": "2026-08-04T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSempPeGhuMXZqeUNmWVQrckd1YWx5cHdVNGt2U2daQUF4OGVDSmtqQktnUnRtNEFJbTVzaytCdU4xVUZLd2JSYUFGTjBJejRCa1hvazZkM1k3Q2YvTzdQeUZSL20vQWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzUwMjAyCWZpbGU6QUNTZXR1cEh1Yl8wLjQuM194NjRfZW4tVVMubXNpCittWWsxN09iN1dSTlZqTDRLQUw5aWlCM1kra3k5NXJvM0V0cXpIL1prSFRyRnJYcnFJeENySnFDUUZXMGhaQjdRVWtuUWRYNDlyWU1YbkNmeEttbURBPT0K",
-      "url": "https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/ACSetupHub_0.4.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSempPeGhuMXZqeVBJbUNHQ05hTWZQTDIxbXlXOXhGWW9meVVTc0RZWWEvVDArUkFDcFArakovVElESnBaWjkwZ1cwTXpaZzByUG5vSlV3YzhvYkt4amlFZmZTTThTcVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODkxNzQ5CWZpbGU6QUNTZXR1cEh1Yl8wLjQuMjBfeDY0X2VuLVVTLm1zaQpQUCtCK093QWdkajJDeVA1STNpTEh4ZElZUmlVMjFXdzl5eW90YmdzL1F6ZmJiMFNvQytnVWxCbEVJQlFSSUdyMVlKeTNIaWRHZkRja2pYMmE1QVBBZz09Cg==",
+      "url": "https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/ACSetupHub_0.4.20_x64_en-US.msi"
     }
   }
 }
