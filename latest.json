@@ -1,11 +1,11 @@
 {
-    "version":  "1.6.0",
-    "notes":  "Setup Hub Pro v1.6.0",
-    "pub_date":  "2026-11-13T03:24:18Z",
+    "version":  "1.6.1",
+    "notes":  "Setup Hub Pro v1.6.1",
+    "pub_date":  "2026-11-14T00:47:04Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY2RlWmc4ZXhDVmtjaElZcyttdjhnNzgrS3BzUVd4d1Y0ZitkK0ZnMzRJcHhmK0M1d052QkF4dE1RMmZhZ2FLK20wSjBhVEQ3MGlma0d4T0dRVFBGZUlUK0p5TDllaFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQwMjU4CWZpbGU6U2V0dXBIdWJQcm9fMS42LjBfeDY0X2VzLUVTLm1zaQpDV3g2allwQy9qZlFQbDRMRkZFUXYzU0w5cWgwc2tQcWFCb2FjRTBCUko0QUg4QXJJa1h3RzQ2emx4WStBSHBHSjNkV3JrUE5Td1NGbmhrWHpDMzVDUT09Cg==",
-                                             "url":  "https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/SetupHubPro_1.6.0_x64_es-ES.msi"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY2RlWmc4ZXhDVnBtN2huL29OMDVyQnlERk0vOEl1VmNELzhHaTZBNFdFbFNPNDZrcXU3b3YrQVN3N1VONU1IalRWR3RlL204ZGwzdDI3ZVNaS0I5bHNQN1ZEMUhEZmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjE3MjI0CWZpbGU6U2V0dXBIdWJQcm9fMS42LjFfeDY0X2VzLUVTLm1zaQp0R0FTSEJPbDlhVHRVMmxpOVNoTjdNejV5dG5VUnBIcWV2YXdZVWh6bzFIczVMTHpQYVNSais0ZStua2k0NDlnZWM1ZEY1cHdxcVkzek9jNkhEVFhDUT09Cg==",
+                                             "url":  "https://github.com/matimura/ac-setup-hub-releases/releases/latest/download/SetupHubPro_1.6.1_x64_es-ES.msi"
                                          }
                   }
 }
